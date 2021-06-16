@@ -1,0 +1,2 @@
+C:\Users\max\Desktop\учёба\мдк 01.04\лаб1.1\Debug\лаб1.1.exe
+C:\Users\max\Desktop\учёба\мдк 01.04\лаб1.1\Debug\лаб1.1.pdb

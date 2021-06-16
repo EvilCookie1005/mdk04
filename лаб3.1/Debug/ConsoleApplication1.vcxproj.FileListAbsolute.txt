@@ -1,0 +1,2 @@
+C:\Users\max\Desktop\учёба\мдк 01.04\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\max\Desktop\учёба\мдк 01.04\ConsoleApplication1\Debug\ConsoleApplication1.pdb
